@@ -1,4 +1,4 @@
-<h1>Hello, I'm 0jerumu Isaac ✌🏼</h1>
+<h1>Hello, I'm Ojerumu Isaac ✌🏼</h1>
 <h3> COUNT YOUR BLESSINGS, NOT YOUR PROBLEMS </h3>
 
 - 🌱 I’m currently Experienced PHP and Nodejs Developer

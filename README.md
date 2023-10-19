@@ -1,9 +1,11 @@
 <h1>Hello, I'm Ojerumu Isaac ✌🏼</h1>
 <h3> COUNT YOUR BLESSINGS, NOT YOUR PROBLEMS </h3>
 
-- 🌱 Backend Developer
-- 👯 I’m looking to collaborate on any backend project
+- 🌱 Backend & Desktop Developer
+- 👯 I’m looking to collaborate on any backend or desktop project
 - 👀 I’m interested in learning latest digital technologies
+- 🌐 Languages: PHP, Typescript, and Electron.js
+- 🛠️ Frameworks: Laravel and Nestjs
 - 📫 How to reach me: isaacojerumu@gmail.com
 
 <h2>Connect with me!</h2>

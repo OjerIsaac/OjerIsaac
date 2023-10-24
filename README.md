@@ -4,8 +4,8 @@
 - 🌱 Backend & Desktop Developer
 - 👯 I’m looking to collaborate on any backend or desktop project
 - 👀 I’m interested in learning latest digital technologies
-- 🌐 Languages: PHP, Typescript
-- 🛠️ Frameworks: Laravel, Nestjs, ElectronJs
+- 🌐 Languages: PHP, Typescript, C#
+- 🛠️ Frameworks: Laravel, Nestjs, ElectronJs, .NET
 - 📫 How to reach me: isaacojerumu@gmail.com
 
 <h2>Connect with me!</h2>

@@ -1,11 +1,11 @@
 <h1>Hello, I'm Ojerumu Isaac ✌🏼</h1>
 <h3> COUNT YOUR BLESSINGS, NOT YOUR PROBLEMS </h3>
 
-- 🌱 Backend & Desktop Developer
+- 🌱 Backend, Desktop & Game Developer
 - 👯 I’m looking to collaborate on any backend or desktop project
 - 👀 I’m interested in learning latest digital technologies
 - 🌐 Languages: PHP, Typescript, C#
-- 🛠️ Frameworks: Laravel, Nestjs, ElectronJs, .NET
+- 🛠️ Frameworks: Laravel, Nestjs, .NET, Unity
 - 📫 How to reach me: isaacojerumu@gmail.com
 
 <h2>Connect with me!</h2>
